@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Alice Tremblay",
+    "carBrand": "Toyota",
+    "ridesCompleted": 128,
+    "averageScore": 4.8
+  },
+  {
+    "name": "Bob Martin",
+    "carBrand": "Honda",
+    "ridesCompleted": 142,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Clara Moreau",
+    "carBrand": "Ford",
+    "ridesCompleted": 67,
+    "averageScore": 4.9
+  },
+  {
+    "name": "David Lafleur",
+    "carBrand": "Chevrolet",
+    "ridesCompleted": 85,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Emma Gagnon",
+    "carBrand": "Hyundai",
+    "ridesCompleted": 54,
+    "averageScore": 4.5
+  },
+  {
+    "name": "Félix Roy",
+    "carBrand": "Volkswagen",
+    "ridesCompleted": 103,
+    "averageScore": 4.8
+  },
+  {
+    "name": "Gabriel Dubois",
+    "carBrand": "BMW",
+    "ridesCompleted": 76,
+    "averageScore": 4.9
+  },
+  {
+    "name": "Hugo Bouchard",
+    "carBrand": "Audi",
+    "ridesCompleted": 97,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Isabelle Côté",
+    "carBrand": "Mercedes",
+    "ridesCompleted": 129,
+    "averageScore": 4.8
+  },
+  {
+    "name": "Julien Gauthier",
+    "carBrand": "Kia",
+    "ridesCompleted": 45,
+    "averageScore": 4.4
+  },
+  {
+    "name": "Karine Fortin",
+    "carBrand": "Mazda",
+    "ridesCompleted": 113,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Louis Bernard",
+    "carBrand": "Tesla",
+    "ridesCompleted": 82,
+    "averageScore": 4.9
+  },
+  {
+    "name": "Marie Lefebvre",
+    "carBrand": "Nissan",
+    "ridesCompleted": 63,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Nathan Poirier",
+    "carBrand": "Subaru",
+    "ridesCompleted": 55,
+    "averageScore": 4.5
+  },
+  {
+    "name": "Océane Girard",
+    "carBrand": "Toyota",
+    "ridesCompleted": 78,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Pierre Desrochers",
+    "carBrand": "Ford",
+    "ridesCompleted": 150,
+    "averageScore": 4.8
+  },
+  {
+    "name": "Quentin Pelletier",
+    "carBrand": "Chevrolet",
+    "ridesCompleted": 92,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Roxanne Caron",
+    "carBrand": "Hyundai",
+    "ridesCompleted": 60,
+    "averageScore": 4.5
+  },
+  {
+    "name": "Samuel Landry",
+    "carBrand": "Volkswagen",
+    "ridesCompleted": 134,
+    "averageScore": 4.9
+  },
+  {
+    "name": "Thierry Tremblay",
+    "carBrand": "BMW",
+    "ridesCompleted": 77,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Ugo Richard",
+    "carBrand": "Audi",
+    "ridesCompleted": 101,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Véronique Dubois",
+    "carBrand": "Mercedes",
+    "ridesCompleted": 145,
+    "averageScore": 4.8
+  },
+  {
+    "name": "William Beaulieu",
+    "carBrand": "Kia",
+    "ridesCompleted": 52,
+    "averageScore": 4.4
+  },
+  {
+    "name": "Xavier Boucher",
+    "carBrand": "Mazda",
+    "ridesCompleted": 118,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Yannick Gagnon",
+    "carBrand": "Tesla",
+    "ridesCompleted": 83,
+    "averageScore": 4.9
+  },
+  {
+    "name": "Zoé Paquette",
+    "carBrand": "Nissan",
+    "ridesCompleted": 90,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Antoine Morin",
+    "carBrand": "Subaru",
+    "ridesCompleted": 71,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Brigitte Roux",
+    "carBrand": "Toyota",
+    "ridesCompleted": 99,
+    "averageScore": 4.5
+  },
+  {
+    "name": "Cédric Turcotte",
+    "carBrand": "Ford",
+    "ridesCompleted": 56,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Dominique Simard",
+    "carBrand": "Chevrolet",
+    "ridesCompleted": 88,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Émilie Robert",
+    "carBrand": "Hyundai",
+    "ridesCompleted": 66,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Fabien Martel",
+    "carBrand": "Volkswagen",
+    "ridesCompleted": 121,
+    "averageScore": 4.8
+  },
+  {
+    "name": "Geneviève Desjardins",
+    "carBrand": "BMW",
+    "ridesCompleted": 100,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Hélène Vaillancourt",
+    "carBrand": "Audi",
+    "ridesCompleted": 104,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Igor Pelletier",
+    "carBrand": "Mercedes",
+    "ridesCompleted": 110,
+    "averageScore": 4.9
+  },
+  {
+    "name": "Jean-François Brunet",
+    "carBrand": "Kia",
+    "ridesCompleted": 48,
+    "averageScore": 4.4
+  },
+  {
+    "name": "Katia Tremblay",
+    "carBrand": "Mazda",
+    "ridesCompleted": 115,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Laurent Fortier",
+    "carBrand": "Tesla",
+    "ridesCompleted": 91,
+    "averageScore": 4.8
+  },
+  {
+    "name": "Mélanie Couture",
+    "carBrand": "Nissan",
+    "ridesCompleted": 72,
+    "averageScore": 4.5
+  },
+  {
+    "name": "Nicolas Paradis",
+    "carBrand": "Subaru",
+    "ridesCompleted": 80,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Odile Rousseau",
+    "carBrand": "Toyota",
+    "ridesCompleted": 102,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Pascal Cormier",
+    "carBrand": "Ford",
+    "ridesCompleted": 125,
+    "averageScore": 4.8
+  },
+  {
+    "name": "Quentin Lemieux",
+    "carBrand": "Chevrolet",
+    "ridesCompleted": 84,
+    "averageScore": 4.5
+  },
+  {
+    "name": "Roxane Cloutier",
+    "carBrand": "Hyundai",
+    "ridesCompleted": 59,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Steve Thibault",
+    "carBrand": "Volkswagen",
+    "ridesCompleted": 87,
+    "averageScore": 4.6
+  },
+  {
+    "name": "Thomas Richard",
+    "carBrand": "BMW",
+    "ridesCompleted": 107,
+    "averageScore": 4.8
+  },
+  {
+    "name": "Ulysse Langlois",
+    "carBrand": "Audi",
+    "ridesCompleted": 119,
+    "averageScore": 4.7
+  },
+  {
+    "name": "Valérie Samson",
+    "carBrand": "Mercedes",
+    "ridesCompleted": 135,
+    "averageScore": 4.9
+  },
+  {
+    "name": "William Roy",
+    "carBrand": "Kia",
+    "ridesCompleted": 51,
+    "averageScore": 4.4
+  }
+]
